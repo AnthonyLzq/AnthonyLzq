@@ -17,7 +17,7 @@
 [<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][#]
 [<img align="left" alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][#]
 [<img align="left" alt="Restify" width="30px" src="https://raw.githubusercontent.com/restify/node-restify/gh-images/logo/png/restify_logo_black_transp_288x288.png?raw=true" />][#]
-[<img align="left" alt="Mongoose" style="width: 30px; padding-top:1.5%;" src="https://gblobscdn.gitbook.com/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh2uMF0SeRmgQ9ESrbj%2F-Lh3BNps2alvubBYGzN1%2FScreen%20Shot%202019-06-10%20at%208.40.12%20PM.png?alt=media&token=b33b7f94-657f-4c88-b55c-8cbb586dfdea" />][#]
+[<img align="left" alt="Mongoose" width="30px" src="https://cdn.filestackcontent.com/tnsRC5TS0OMIlyfjDaNN" />][#]
 [<img align="left" alt="Sequelize" width=30px src="https://charliejuc.com/static/dev-tools/sequelize-logo.png" />][#]
 [<img align="left" alt="React" width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][#]
 [<img align="left" alt="Angular" width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][#]
@@ -43,4 +43,4 @@
   </table>
 </center>
 
-[#]: #
+[#]: https://github.com/AnthonyLzq
