@@ -35,7 +35,7 @@
 ### ⚡ GitHub Stats
 
 <center>
-  <table>
+  <table cellspacing="0" cellpadding="0" style="border: none;">
     <tr>
       <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylzq&show_icons=true&hide_border=true&count_private=true&theme=material-palenight" /></td>
       <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=anthonylzq&show_icons=true&hide_border=true&count_private=true&theme=material-palenight"/></td>
