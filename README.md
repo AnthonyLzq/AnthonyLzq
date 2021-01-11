@@ -2,7 +2,7 @@
 
 ## I'm a Junior Backend Developer and Technology Enthusiast!
 
-- 🔭 I’m currently working at [Chazki](https://chazki.com/).
+- 🔭 I’m working as a full stack developer at [Chazki](https://chazki.com/). There I work with Angular and Spring Boot.
 - ⚡ I’m currently working on a remote electronic voting platform.
 - 😄 I love to program and play video games.
 
