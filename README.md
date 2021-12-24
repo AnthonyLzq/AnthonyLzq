@@ -1,9 +1,9 @@
 ### Hi there, I'm Anthony Luzquiños 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=anthonylzq&color=blue)</div>
 
-## I'm a Junior Backend Developer and Technology Enthusiast!
+## I'm a Full Stack Developer and Technology Enthusiast!
 
-- 🔭 I’m working as a full stack developer at [Chazki](https://chazki.com/). There I work with Angular and Spring Boot.
-- ⚡ I’m currently working on a remote electronic voting platform.
+- 🔭 I’m working as a full stack developer at [Kashin](https://kashin.app/). There I work with TypeScript, Node.js and RabbitMQ.
+- ⚡ I’m currently working on a backend development framework, [Simba.js](https://www.npmjs.com/package/@anthonylzq/simba.js).
 - 😄 I love to program and play video games.
 
 ### Connect with me
