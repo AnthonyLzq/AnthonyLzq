@@ -38,16 +38,27 @@ I'm a technology enthusiast and self-taught person who loves to love and contrib
 <b>My GitHub Stats</b>
 
 <center>
-  <table cellspacing="0" cellpadding="0" style="border: none;">
+  <table cellspacing="0" cellpadding="0" style="border: none; overflow: hidden">
     <tr>
-      <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=anthonylzq&show_icons=true&hide_border=true&count_private=true&theme=material-palenight"/></td>
-      <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylzq&show_icons=true&hide_border=true&count_private=true&theme=material-palenight" /></td>
+      <td>
+        <img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=anthonylzq&show_icons=true&hide_border=true&count_private=true&theme=material-palenight"/>
+      </td>
+      <td>
+        <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylzq&show_icons=true&hide_border=true&count_private=true&theme=material-palenight" />
+      </td>
     </tr>
   </table>
 </center>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/anthonylzq/simba.js" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonylzq&repo=simba.js&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/anthonylzq/typescript-project-generator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonylzq&repo=typescript-project-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/anthonylzq/simba.js" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonylzq&repo=simba.js&title_color=c792ea&text_color=a6accd&icon_color=89ddff&bg_color=292d3e&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/anthonylzq/typescript-project-generator" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonylzq&repo=typescript-project-generator&title_color=c792ea&text_color=a6accd&icon_color=89ddff&bg_color=292d3e&hide_border=true&locale=en" />
+  </a>
+</div>
 
 [#]: https://github.com/AnthonyLzq
