@@ -5,7 +5,7 @@ Full Stack Developer
 
 ![](https://komarev.com/ghpvc/?username=anthonylzq&color=blue)
 
-I'm a technology enthusiast and self-taught person who loves to love and contribute to open source projects.
+I'm a technology enthusiast and self-taught person who loves to code and contribute to open source projects.
 
 - 🌍  I'm based in Lima
 - ✉️  You can contact me at [anthony.luzquinos@gmail.com](mailto:anthony.luzquinos@gmail.com)
