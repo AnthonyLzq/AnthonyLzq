@@ -1,8 +1,9 @@
-# Hi 👋 My name is Anthony Luzquiños <div align = 'right'>![](https://komarev.com/ghpvc/?username=anthonylzq&color=blue)</div>
+# Hi 👋 My name is Anthony Luzquiños
 
-Full Stack Developer <div align = 'right'><a href="https://www.github.com/anthonylzq" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/anthonylzq?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></div>
+Full Stack Developer
 --------------------
+
+![](https://komarev.com/ghpvc/?username=anthonylzq&color=blue)
 
 I'm a technology enthusiast and self-taught person who loves to love and contribute to open source projects.
 
