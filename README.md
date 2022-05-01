@@ -39,12 +39,12 @@ I'm a technology enthusiast and self-taught person who loves to love and contrib
 <b>My GitHub Stats</b>
 
 <center>
-  <table cellspacing="0" cellpadding="0" style="border: none; overflow: hidden">
-    <tr>
-      <td>
+  <table cellspacing="0" cellpadding="0" style="overflow: hidden">
+    <tr style="border: none;">
+      <td style="border: none;">
         <img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=anthonylzq&show_icons=true&hide_border=true&count_private=true&theme=material-palenight"/>
       </td>
-      <td>
+      <td style="border: none;">
         <img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylzq&show_icons=true&hide_border=true&count_private=true&theme=material-palenight" />
       </td>
     </tr>
