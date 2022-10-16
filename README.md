@@ -10,7 +10,7 @@ I'm a technology enthusiast and self-taught person who loves to code and contrib
 - 🌍 I'm based in Lima
 - ✉️  You can contact me at [anthony.luzquinos@gmail.com](mailto:anthony.luzquinos@gmail.com)
 - 🚀 I’m currently working on a backend development framework, [Simba.js](http://www.npmjs.com/package/@anthonylzq/simba.js)
-- 😄 I love to program and play video games.
+- 👨🏽‍💻 I love to program and play video games.
 - 🤩 I'm a proud member of [ACECOM](https://acecom.dev/).
 
 ### Skills
