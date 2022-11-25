@@ -82,12 +82,8 @@ I'm a technology enthusiast and self-taught person who loves to code and contrib
 #### My GitHub Stats
 
 <div width="100%" align="center">
-  <a href="https://github.com/anthonylzq/simba.js">
-    <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=anthonylzq&show_icons=true&hide_border=true&count_private=true&theme=material-palenight" />
-  </a>
-  <a href="https://github.com/anthonylzq/typescript-project-generator" align="right">
-    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylzq&show_icons=true&hide_border=true&count_private=true&theme=material-palenight" />
-  </a>
+  <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=AnthonyLzq&show_icons=true&hide_border=true&count_private=true&theme=material-palenight" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyLzq&show_icons=true&hide_border=true&count_private=true&theme=material-palenight" />
 </div>
 
 <br />
@@ -96,10 +92,10 @@ I'm a technology enthusiast and self-taught person who loves to code and contrib
 
 <div width="100%" align="center">
   <a href="https://github.com/anthonylzq/simba.js" align="left">
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonylzq&repo=simba.js&title_color=c792ea&text_color=a6accd&icon_color=89ddff&bg_color=292d3e&hide_border=true&locale=en" style="margin: 0px;" />
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyLzq&repo=simba.js&title_color=c792ea&text_color=a6accd&icon_color=89ddff&bg_color=292d3e&hide_border=true&locale=en" style="margin: 0px;" />
   </a>
   <a href="https://github.com/anthonylzq/typescript-project-generator" align="right">
-    <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonylzq&repo=typescript-project-generator&title_color=c792ea&text_color=a6accd&icon_color=89ddff&bg_color=292d3e&hide_border=true&locale=en" style="margin: 0px;"/>
+    <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyLzq&repo=typescript-project-generator&title_color=c792ea&text_color=a6accd&icon_color=89ddff&bg_color=292d3e&hide_border=true&locale=en" style="margin: 0px;"/>
   </a>
 </div>
 
