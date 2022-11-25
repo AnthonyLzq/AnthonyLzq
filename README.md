@@ -82,11 +82,9 @@ I'm a technology enthusiast and self-taught person who loves to code and contrib
 #### My GitHub Stats
 
 <div width="100%" align="center">
-  <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=AnthonyLzq&show_icons=true&hide_border=true&count_private=true&theme=material-palenight" />
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyLzq&show_icons=true&hide_border=true&count_private=true&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnthonyLzq&show_icons=true&hide_border=true&count_private=true&theme=material-palenight" />
+  <!-- <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyLzq&show_icons=true&hide_border=true&count_private=true&theme=material-palenight" /> -->
 </div>
-
-<br />
 
 #### Top Repositories
 
